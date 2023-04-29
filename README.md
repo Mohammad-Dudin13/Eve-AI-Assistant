@@ -19,7 +19,7 @@ cd Eve-AI-Assistant
 ```terminal
 pip install -r requirements.txt
 ```
-4. Open the main.py file located in the Main folder.
+4. Open the main.py file located in the 'Main' folder.
 5. Replace "Your API Key" with your own OpenAI secret API Key.
 6. Navigate to the Main folder:
 ```terminal
