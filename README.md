@@ -5,7 +5,7 @@ Eve is a Python-based AI assistant that utilizes a trained chatbot, TensorFlow, 
 * Web searching: Utilizing Wikipedia, Eve can search the web and provide short summaries on various topics.
 * Weather information: Users can request weather details for specified cities, which Eve retrieves using relevant APIs.
 * Complex tasks: For advanced tasks like writing poems, emails, and coding, Eve utilizes OpenAI's API (user key required).
-## Installation
+## Installation and Running
 Follow these steps to install and run Eve (Using Terminal):
 1. Clone the repository:
 ```terminal
