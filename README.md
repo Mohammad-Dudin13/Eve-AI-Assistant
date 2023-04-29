@@ -6,7 +6,7 @@ Eve is a Python-based AI assistant that utilizes a trained chatbot, TensorFlow, 
 * Weather information: Users can request weather details for specified cities, which Eve retrieves using relevant APIs.
 * Complex tasks: For advanced tasks like writing poems, emails, and coding, Eve utilizes OpenAI's API (user key required).
 ## Installation and Running
-Follow these steps to install and run Eve (Using Terminal):
+To execute the program, ensure that Python 3.10 or a higher version is installed on your system. Please follow the steps below to install and run Eve via the Terminal:
 1. Clone the repository:
 ```terminal
 git clone https://github.com/Xecutioner13/Eve-AI-Assistant
@@ -33,3 +33,10 @@ or
 ```terminal
 python3 main.py
 ```
+Ensure that you have followed the above steps correctly to successfully install and run Eve.
+## Contributing
+I welcome contributions from the community! If you'd like to contribute to Eve, here are a few ways you can help:
+* **Report bugs**: If you find a bug in the code, please submit an issue on my GitHub repository.
+* **Suggest features**: If you have an idea for a new feature, please let us know by creating a GitHub issue.
+* **Improve the documentation**: If you notice any errors or inconsistencies in the documentation, feel free to submit a pull request with your proposed changes.
+* **Improve the Chatbot**: for developers who want to contribute, i uploaded the model training code also in this repositry in the folder [Use Only for Training the Chatbot]
